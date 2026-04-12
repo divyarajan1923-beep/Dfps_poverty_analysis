@@ -1,5 +1,5 @@
 
-# DFPS Child Abuse vs Poverty Analysis (Texas)
+# DFPS Child Abuse vs Poverty Analysis (Texas Counties)
 
 **Project Overview**
 This project analyzes the relationship between **child abuse rate per 1000 people** and **poverty rates** across Texas counties using datasets from **DFPS** and **The U.S Census Bureau**.
