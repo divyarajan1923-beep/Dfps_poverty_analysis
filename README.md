@@ -5,7 +5,7 @@
 This project analyzes the relationship between child abuse cases and poverty rates across Texas counties.
 
 **Tableau Dashboard**
-[View Interactive Dashboard][(https://public.tableau.com/app/profile/divyarajan/viz/AbuseRateVsPovertyAnalysis-TexasCounties/AbuseRateVsPovertyAnalysis-TexasCounties)]
+[View Interactive Dashboard](https://public.tableau.com/app/profile/divyarajan/viz/AbuseRateVsPovertyAnalysis-TexasCounties/AbuseRateVsPovertyAnalysis-TexasCounties)
 
 **Data Sources**
 - DFPS (Child Abuse Data)
