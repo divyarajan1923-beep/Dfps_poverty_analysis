@@ -2,7 +2,7 @@
 # DFPS Child Abuse vs Poverty Analysis (Texas)
 
 **Project Overview**
-This project analyzes the relationship between child abuse cases and poverty rates across Texas counties.
+This project analyzes the relationship between **child abuse rate per 1000 people** and **poverty rates** across Texas counties using datasets from **DFPS** and **The U.S Census Bureau**.
 
 **Tableau Dashboard**
 [View Interactive Dashboard](https://public.tableau.com/app/profile/divyarajan/viz/AbuseRateVsPovertyAnalysis-TexasCounties/AbuseRateVsPovertyAnalysis-TexasCounties)
@@ -13,18 +13,21 @@ This project analyzes the relationship between child abuse cases and poverty rat
 - U.S. Census (Population Data)
 
 **Tools Used**
-- SQL (data cleaning, joins, analysis)
-- Tableau (visualization)
+-Excel(Data Cleaning and validation)
+- SQL (Data validation, joins, analysis)
+- Tableau (Visualization)
 
 **Key Steps**
 1. Cleaned DFPS and SAIPE datasets in excel
 2. Standardized county names using excel formulas
-3. Joined datasets using SQL
-4. Analyzed trends and correlations using SQL queries
+3. Data Validated using SQL queries
+4. Joined datasets using SQL
+5. Analyzed trends and correlations using Tableau
 
 **Key Insights**
 - Counties with higher poverty rates tend to show higher abuse cases
 - Some counties deviate, indicating other influencing factors
+- Identified high-risk areas to support program and policy decisions
 
 **Files in This Repo**
 - dfps_clean.csv
