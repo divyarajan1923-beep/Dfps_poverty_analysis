@@ -10,7 +10,7 @@ This project analyzes the relationship between child abuse cases and poverty rat
 **Data Sources**
 - DFPS (Child Abuse Data)
 - U.S. Census SAIPE (Poverty Data)
-- U.S. Census(Population Data)
+- U.S. Census (Population Data)
 
 **Tools Used**
 - SQL (data cleaning, joins, analysis)
@@ -31,3 +31,4 @@ This project analyzes the relationship between child abuse cases and poverty rat
 - saipe_clean.csv
 - dfps_poverty_final.csv
 - dfps_poverty_analysis.sql
+- population_final.xlsx
